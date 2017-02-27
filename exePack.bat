@@ -1,0 +1,1 @@
+pyinstaller -F BlancTrans.py -w --icon=./res/ico64.ico

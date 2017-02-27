@@ -1,0 +1,1 @@
+pyside-uic formUi.ui -o ../../formUi.py
